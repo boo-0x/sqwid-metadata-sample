@@ -1,0 +1,8 @@
+{
+  "name": "sqwid-metadata-sample",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "csv-stringify": "^6.2.0"
+  }
+}
